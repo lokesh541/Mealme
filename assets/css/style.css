@@ -1759,6 +1759,10 @@ header {
     cursor: pointer;
 }
 
+.speaker-img {
+    border-radius: 100%;
+}
+
 /*
 ==========================================
     13. Creative Team
